@@ -1,6 +1,6 @@
 # NXT, standalone part
 
-NXT is an unoriginal name for Chromium’s investigation and prototyping of a NeXT generation graphics API for the Web. This repository contains a native library implementing NXT on multiple backends, as well as some code generators used for the integration in Chromium.
+NXT is an unoriginal name for Chromium’s investigation and prototyping of a NeXT generation graphics API for the Web. This repository contains a native library implementing NXT on multiple backends, as well as some code generators used for the integration in Chromium. The experimental Chromium fork can be found in [nxt-chromium](https://github.com/gpuweb/nxt-chromium).
 
 We focused on efforts on two axis:
 
@@ -37,8 +37,6 @@ Some of the investigations we made on the design of potential backend APIs:
 - [Vertex setup investigation](https://drive.google.com/open?id=1SIUpdg-6Xm5FFF1ktdBfnR5oRKjyPAfXir7Drui4cYM)
 
 [Another presentation](https://drive.google.com/open?id=1mLQEM__twfivV7nJLDBIomS9pegOYkJQWyM6lTse4PQ) about our work with more details on the architecture of the prototype, and a [video](https://youtu.be/ThlZ5K4hJvo) of the demo we showed.
-
-TODO: add a link to the NXT-chromium repo once it is uploaded.
 
 ## Key elements of the prototype’s architecture
 
